@@ -27,12 +27,12 @@ Supervised by Prof. Yunhua He.
 RESEARCH & PROJECT
 ======
 * A Blockchain-based Emergency Materials Management Platform, NCUT, China, 2020
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Prof. Yunhua He
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Prof. Yunhua He
 
 Internship Experience
 ======
 * **China Information Technology Construction Corporate**, Beijing, China, 2021
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Engineer
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Engineer
   
 CERTIFICATE & AWARD
 ======
