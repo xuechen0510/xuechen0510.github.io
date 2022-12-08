@@ -11,7 +11,7 @@ redirect_from:
 
 Background
 ======
-Miss. Chen is a M.Phil. student, supervised by Dr. Gao Shang, in the Department of Computing at The Hong Kong Polytechnic University. Before she came to Hong Kong, she received the B.Eng. degree majoring in information security at North China University of Technology. She was ======== During his bachelor's study, he has published several academic conference and journal papers.
+Miss. Chen is a M.Phil. student, supervised by Dr. Gao Shang, in the Department of Computing at The Hong Kong Polytechnic University. Before she came to Hong Kong, she received the B.Eng. degree majoring in information security at North China University of Technology. She was ======== During her bachelor's study, she has published several academic conference and journal papers.
 
 Research Interests
 ======
