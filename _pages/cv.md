@@ -26,7 +26,7 @@ RESEARCH ASSISTANT
    * Supervised by Prof. He Yunhua.
 * Quantum Information and Post-Quantum Cryptography, **North China University of Technology**, China, 2021-2022
    * Supervised by Prof. Zheng Chao.
-* Efficient and Post-Quantum Zero-Knowledge Proofs for RingCT Protocols in Blockchain Systems, **The Hong Kong Polytechnic University**, China, 2022-2023
+* Efficient and Post-Quantum Zero-Knowledge Proofs for RingCT Protocols in Blockchain Systems, **The Hong Kong Polytechnic University**, Hong Kong, 2022-2023
    * Supervised by Prof. Gao Shang.
 
 RESEARCH & PROJECT
