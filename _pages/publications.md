@@ -10,13 +10,14 @@ Selected list of Publications
 
 [**EVchain: An Anonymous Blockchain-based System for Charging Connected Electric Vehicles**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9449329)
 <br>
-Published in *Tsinghua Science and Technology*, 2021 **(Best Paper Award)**
+Published in *Tsinghua Science and Technology*, 2021 **(JCR Q2, Best Paper Award)**
 <br>
 **Recommend citation**: S. Xu, X. Chen and Y. He, "EVchain: An Anonymous Blockchain-Based System for Charging-Connected Electric Vehicles," *Tsinghua Science and Technology*, vol. 26, no. 6, pp. 845-856, Dec. 2021.
 <br><br>
 
 [**A Lattice-Based Ring Signature Scheme to Secure Automated Valet Parking**](https://link.springer.com/chapter/10.1007%2F978-3-030-86130-8_6)  
 Published in *International Conference on Wireless Algorithms, Systems, and Applications (WASA)*, 2021 **(CCF C)** 
+<br>
 **Recommend citation**: S. Xu, X. Chen, C. Wang, et al., "A Lattice-Based Ring Signature Scheme to Secure Automated Valet Parking," in *Wireless Algorithms, Systems, and Applications (WASA 2021)*, vol. 12938, pp. 70-83, Sep. 2021.
 <br><br>
 
@@ -27,7 +28,7 @@ Published in *Computer Networks*, 2022 **(JCR Q1, CORE A, CCF B)**
 **Recommend citation**: Y. Cao, S. Xu, X. Chen, et al., "A forward-secure and efficient authentication protocol through lattice-based group signature in VANETs scenarios," *Computer Networks*, vol. 214, no. 109149, 2022.
 <br><br>
 
-[**AQRS: Anti-Quantum Ring Signature Scheme for Secure Epidemic Control with Blockchain**]
+[**AQRS: Anti-Quantum Ring Signature Scheme for Secure Epidemic Control with Blockchain**](https://www.sciencedirect.com/journal/computer-networks)
 <br>
 Submitted to *Computer Networks*, 2022 **(JCR Q1, CORE A, CCF B)**
 <br><br>
