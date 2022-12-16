@@ -19,6 +19,6 @@ Broadly speaking, I am interested in information security and applied cryptograp
 
 News
 ======
-1. "LLRSB: Privacy-Preserving Infection Control Scheme for COVID-19 Through Lattice-based Linkable Ring Signature in Blockchain" submitted to *Computer Networks* *(JCR Q1, CCF B).*
+1. "AQRS: Anti-Quantum Ring Signature Scheme for Secure Epidemic Control with Blockchain" submitted to *Computer Networks* *(JCR Q1, CCF B).*
 2. "EVchain: An Anonymous Blockchain-based System for Charging Connected Electric Vehicles" has been published by *Tsinghua Science and Technology (JCR Q2)(Best Paper Award).*
 
