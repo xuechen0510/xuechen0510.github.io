@@ -18,7 +18,8 @@ EDUCATION
    * Outstanding Student
    * 3 years Scholarship Recipient
 
-* Summer Institute: Fintech: AI, Blockchain, Computational Finance (FTAI2020), **The University of Hong Kong**, Hong Kong, 2020
+* Summer Institute
+   * Fintech: AI, Blockchain, Computational Finance (FTAI2020), **The University of Hong Kong**, Hong Kong, 2020
 
 RESEARCH ASSISTANT
 ======
@@ -69,8 +70,8 @@ LEARNING & AWARD
 * Seminar
    * [CS 355: Topics in Cryptography](https://crypto.stanford.edu/cs355/22sp/)
 
-* Award
+* Selected Award
    * National University Computer Competition 2020 Network Technology Challenge - Third Prize, North China Division, 2020
-   * The 10th China National College Students “Innovation, Originality, and Entrepreneurship” Challenge - Third Prize, North China Qualification Contest, 2020
-   * The 11th Challenge Cup Capital University Students Extracurricular Technology Competition - Second Prize in North China University of Technology, 2021
-   * Intermediate-level Computer Office Applications Engineer - By China Software Industry Association, 2020
+   * China National College Students “Innovation, Originality, and Entrepreneurship” Challenge - Third Prize, North China Qualification Contest, 2020
+   * The Challenge Cup Capital University Students Extracurricular Technology Competition - Second Prize, North China University of Technology, 2021
+   * Intermediate-level Computer Office Applications Engineer - China Software Industry Association, 2020
