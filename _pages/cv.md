@@ -54,24 +54,23 @@ INTERNSHIP EXPERIENCEE
   
 LEARNING & AWARD
 ======
-* Learning
 
-  * Coursera:
-   * Cryptography I (Stanford)
+* Coursera
+   *  Cryptography I (Stanford)
    * Shortest Paths Revisited, NP-Complete Problems and What To Do About Them (Stanford)
    * Algorithms (Stanford).
    * Graph Search, Shortest Paths, and Data Structures (Stanford).
    * Divide and Conquer, Sorting and Searching, and Randomized Algorithms (Stanford).
    * Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming (Stanford).
- 
-  * YouTube
+
+* YouTube
    * Blockchain Technology and Applications (Peking University)
- 
-  * Seminar
+   * 
+* Seminar
    * [CS 355: Topics in Cryptography](https://crypto.stanford.edu/cs355/22sp/)
-  
+
 * Award
- * National University Computer Competition 2020 Network Technology Challenge - Third Prize, North China Division, 2020
- * The 10th China National College Students “Innovation, Originality, and Entrepreneurship” Challenge - Third Prize, North China Qualification Contest, 2020
- * The 11th Challenge Cup Capital University Students Extracurricular Technology Competition - Second Prize in North China University of Technology, 2021
- * Intermediate-level Computer Office Applications Engineer - By China Software Industry Association
+   * National University Computer Competition 2020 Network Technology Challenge - Third Prize, North China Division, 2020
+   * The 10th China National College Students “Innovation, Originality, and Entrepreneurship” Challenge - Third Prize, North China Qualification Contest, 2020
+   * The 11th Challenge Cup Capital University Students Extracurricular Technology Competition - Second Prize in North China University of Technology, 2021
+   * Intermediate-level Computer Office Applications Engineer - By China Software Industry Association, 2020
