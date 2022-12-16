@@ -11,6 +11,7 @@ Selected list of Publications
 [**EVchain: An Anonymous Blockchain-based System for Charging Connected Electric Vehicles**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9449329)
 <br>
 Published in *Tsinghua Science and Technology*, 2021 & **Best Paper Award**
+<br>
 **Recommend citation**: S. Xu, X. Chen and Y. He, "EVchain: An Anonymous Blockchain-Based System for Charging-Connected Electric Vehicles," *Tsinghua Science and Technology*, vol. 26, no. 6, pp. 845-856, Dec. 2021.
 <br><br>
 
