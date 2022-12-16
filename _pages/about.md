@@ -19,6 +19,8 @@ Broadly speaking, I am interested in information security and applied cryptograp
 
 News
 ======
-1. "AQRS: Anti-Quantum Ring Signature Scheme for Secure Epidemic Control with Blockchain" submitted to *Computer Networks* *(JCR Q1, CCF B).*
-2. "EVchain: An Anonymous Blockchain-based System for Charging Connected Electric Vehicles" has been published by *Tsinghua Science and Technology (JCR Q2)(Best Paper Award).*
+1. "AQRS: Anti-Quantum Ring Signature Scheme for Secure Epidemic Control with Blockchain" has been submitted to *Computer Networks* **(JCR Q1, CORE A, CCF B)**.
+2. "A forward-secure and efficient authentication protocol through lattice-based group signature in VANETs scenarios" has been published by *Computer Networks* **(JCR Q1, CORE A, CCF B)**.
+3. "EVchain: An Anonymous Blockchain-based System for Charging Connected Electric Vehicles" has been published by *Tsinghua Science and Technology* **(JCR Q2, Best Paper Award)**.
+4. "LFS-AS: Lightweight Forward Secure Aggregate Signature for e-Health Scenarios" has been published by *IEEE International Conference on Communications (ICC’2022)* **(CORE B, CCF C)**.
 
