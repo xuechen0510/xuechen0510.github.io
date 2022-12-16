@@ -23,34 +23,34 @@ EDUCATION
 RESEARCH ASSISTANT
 ======
 * Privacy Protection, Blockchain Security and Post-quantum Cryptography, **North China University of Technology**, China, 2020-2021
-   * Supervised by Prof. He Yunhua.
+   * Supervised by *Prof. He Yunhua*.
 * Quantum Information and Post-Quantum Cryptography, **North China University of Technology**, China, 2021-2022
-   * Supervised by Prof. Zheng Chao.
+   * Supervised by *Prof. Zheng Chao*.
 * Efficient and Post-Quantum Zero-Knowledge Proofs for RingCT Protocols in Blockchain Systems, **The Hong Kong Polytechnic University**, Hong Kong, 2022-2023
-   * Supervised by Prof. Gao Shang.
+   * Supervised by *Prof. Gao Shang*.
 
 RESEARCH & PROJECT
 ======
 * A Blockchain-based Emergency Materials Management Platform, NCUT, China, 2020
-  &nbsp; Advisor: Prof. Yunhua He
+   * Advisor: *Prof. Yunhua He*
 * Privacy and Security in Blockchain-based Electric Vehicles, NCUT, China, 2020
-  &nbsp; Advisor: Prof. Yunhua He
+   * Advisor: *Prof. Yunhua He*
 * Vehicle Trajectory Prediction Method, NCUT, China, 2020
-  &nbsp; Advisor: Prof. Chao Wang
+   * Advisor: *Prof. Chao Wang*
 * Open Laboratory Project of Artificial Intelligence on Voice Recognition, NCUT, 2020
-  &nbsp; Advisor: Prof. Yulong Han
+   * Advisor: *Prof. Yulong Han*
 * Open Laboratory Project of Research on the Next Generation Mobile Communication Technology, NCUT, 2020
-  &nbsp; Advisor: Prof. Yulong Han
+   * Advisor: *Prof. Yulong Han*
 * Student Research Project of Digital Testing Module on Vectorizing Compiler, NCUT, 2020 
-  &nbsp; Advisor: Prof. Lianjun Liao
+   * Advisor: *Prof. Lianjun Liao*
 * National College Students’ Innovation and Entrepreneurship Training Program, NCUT, 2021
-  &nbsp; Advisor: Prof. Yunhua He
+   * Advisor: *Prof. Yunhua He*
   
   
 INTERNSHIP EXPERIENCEE
 ======
 * **China Information Technology Construction Corporate**, Beijing, China, 2021
-  &nbsp; Software Engineer
+   * Software Engineer
   
 LEARNING & AWARD
 ======
@@ -65,7 +65,7 @@ LEARNING & AWARD
 
 * YouTube
    * Blockchain Technology and Applications (Peking University)
-   * 
+   
 * Seminar
    * [CS 355: Topics in Cryptography](https://crypto.stanford.edu/cs355/22sp/)
 
