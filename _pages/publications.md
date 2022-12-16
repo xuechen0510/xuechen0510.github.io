@@ -46,7 +46,19 @@ Published in *International Conference on Wireless Algorithms, Systems, and Appl
 **Recommend citation**: S. Xu, X. Chen, Y. He, et al., "VMT: Secure VANETs Message Transmission Scheme with Encryption and Blockchain," in *Wireless Algorithms, Systems, and Applications (WASA 2022)*, vol. 13471, pp. 244–257, 2022.
 <br><br>
 
+[**APKI: An Anonymous Authentication Scheme Based on PKI for VANET**](https://ieeexplore.ieee.org/abstract/document/9845923)
+<br>
+Published in *International Conference on Computer and Communication Systems (ICCCS)*, 2022
+<br>
+**Recommend citation**: S. Jiang, X. Chen, Y. Cao, T. Xu, J. He and Y. Cui, "APKI: An Anonymous Authentication Scheme Based on PKI for VANET," in *International Conference on Computer and Communication Systems (ICCCS)*, pp. 530-536, 2022.
+<br><br>
 
+[**Lattice based Ring Signature Scheme for Secure Cloud-based EMR Sharing**](https://ieeexplore.ieee.org/abstract/document/9845850)
+<br>
+Published in *International Conference on Computer and Communication Systems (ICCCS)*, 2022
+<br>
+**Recommend citation**: W. Hu, Y. Chai, X. Chen and C. Zheng, "Lattice based Ring Signature Scheme for Secure Cloud-based EMR Sharing," in *International Conference on Computer and Communication Systems (ICCCS)*, pp. 789-794, 2022.
+<br><br>
 
 Selected list of Computer Software Copyrights
 ======
@@ -63,4 +75,5 @@ Selected list of Patents
 ======
 
   * Blockchain-based Privacy Protection scheme for Charging Piles of Smart Vehicles. Submitted to Chinese Invention Patent.
+  * Privacy Protection Scheme of Logging System Based on Post-quantum Blockchain based on Lattice. Submitted to Chinese Invention Patent.
 
