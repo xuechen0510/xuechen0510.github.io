@@ -70,17 +70,15 @@ Published in *International Conference on Computer and Communication Systems (IC
 Selected list of Computer Software Copyrights
 ======
 
-* A Blockchain-based Public Information Security Audit Platform
-* A Blockchain-based Medical Materials Transaction Management System
-* A Blockchain-based Smart Home Equipment Identity Control System
-* A Blockchain-based Emergency Materials Management Platform
-* A Blockchain-based Anti-epidemic Materials Traceability System
-
+* A Blockchain-based Smart Home Equipment Identity Control System (Patent Number: 2021SR0433466). (First Author)
+* A Blockchain-based Medical Materials Transaction Management System (Patent Number: 2021SR0433467). (First Author)
+* Anti-epidemic material information registration management system (Patent Number: 2021SR0390598).
+* Security defense detection system for wireless communication networks (Patent Number: 2021SR0980343).
   
   
 Selected list of Patents
 ======
 
-  * Blockchain-based Privacy Protection scheme for Charging Piles of Smart Vehicles. Submitted to Chinese Invention Patent.
-  * Privacy Protection Scheme of Logging System Based on Post-quantum Blockchain based on Lattice. Submitted to Chinese Invention Patent.
+  * Blockchain-based Privacy Protection scheme for Charging Piles of Smart Vehicles. (CN202110466884.X)
+  * Lattice based ring signature method and automatic parking system using the signature. Submitted to Chinese Invention Patent.
 
