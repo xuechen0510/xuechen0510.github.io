@@ -10,3 +10,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Team"
+    url: /teaching/
+    
+  - title: "Talk"
+    url: /talk/
