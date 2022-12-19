@@ -11,7 +11,7 @@ main:
     url: /cv/
     
   - title: "Team"
-    url: /teaching/
+    url: /team/
     
   - title: "Talk"
     url: /talks/
