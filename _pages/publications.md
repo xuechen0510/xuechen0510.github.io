@@ -79,6 +79,6 @@ Selected list of Computer Software Copyrights
 Selected list of Patents
 ======
 
-  * Blockchain-based Privacy Protection scheme for Charging Piles of Smart Vehicles. (CN202110466884.X)
+  * Blockchain-based Privacy Protection scheme for Charging Piles of Smart Vehicles. (Patent Number: CN202110466884.X)
   * Lattice based ring signature method and automatic parking system using the signature. Submitted to Chinese Invention Patent.
 
