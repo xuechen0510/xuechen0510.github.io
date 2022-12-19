@@ -9,4 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-group member
+Group Member
+======
+Shiyuan Xu
+Yibo Cao
