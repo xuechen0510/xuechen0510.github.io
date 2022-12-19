@@ -12,9 +12,9 @@ redirect_from:
 Group Member
 ======
 * Shiyuan Xu
-   * Supervisor: *Prof. Yiu, Siu-Ming*
+   * Supervisor: *Prof. Siu-Ming Yiu*
    * Current Ph.D. student at the University of Hong Kong.
 
 * Yibo Cao
-   * Supervisor: *Prof. Xiubo Chen*
+   * Supervisor: *Prof. Xiu-Bo Chen*
    * Current Master student at the Beijing University of Posts and Telecommunications.
