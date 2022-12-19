@@ -12,6 +12,8 @@ redirect_from:
 EDUCATION
 ======
 * M.Phil. in Computer Science, **The Hong Kong Polytechnic University**, Hong Kong, 2024 (expected)
+   * Supervisor: *Dr. GAO Shang*
+   * Main Research Area: Post-Quantum Cryptography, Signatures and Blockchain.
 
 * B. Eng. in Information Security, **North China University of Technology**, Beijing, China, 2022
    * GPA: 86/100 & 3.64/4.00
@@ -28,24 +30,24 @@ RESEARCH ASSISTANT
 * Quantum Information and Post-Quantum Cryptography, **North China University of Technology**, China, 2021-2022
    * Supervised by *Prof. Zheng Chao*.
 * Efficient and Post-Quantum Zero-Knowledge Proofs for RingCT Protocols in Blockchain Systems, **The Hong Kong Polytechnic University**, Hong Kong, 2022-2023
-   * Supervised by *Prof. Gao Shang*.
+   * Supervised by *Dr. Gao Shang*.
 
 RESEARCH & PROJECT
 ======
 * A Blockchain-based Emergency Materials Management Platform, NCUT, China, 2020
-   * Advisor: *Prof. Yunhua He*
+   * Advisor: *Prof. He Yunhua*
 * Privacy and Security in Blockchain-based Electric Vehicles, NCUT, China, 2020
-   * Advisor: *Prof. Yunhua He*
+   * Advisor: *Prof. He Yunhua*
 * Vehicle Trajectory Prediction Method, NCUT, China, 2020
-   * Advisor: *Prof. Chao Wang*
+   * Advisor: *Prof. Wang Chao*
 * Open Laboratory Project of Artificial Intelligence on Voice Recognition, NCUT, 2020
-   * Advisor: *Prof. Yulong Han*
+   * Advisor: *Prof. Han Yulong*
 * Open Laboratory Project of Research on the Next Generation Mobile Communication Technology, NCUT, 2020
-   * Advisor: *Prof. Yulong Han*
+   * Advisor: *Prof. Han Yulong*
 * Student Research Project of Digital Testing Module on Vectorizing Compiler, NCUT, 2020 
-   * Advisor: *Prof. Lianjun Liao*
+   * Advisor: *Prof. Liao Lianjun*
 * National College Students’ Innovation and Entrepreneurship Training Program, NCUT, 2021
-   * Advisor: *Prof. Yunhua He*
+   * Advisor: *Prof. He Yunhua*
   
   
 INTERNSHIP EXPERIENCEE
@@ -57,9 +59,8 @@ LEARNING & AWARD
 ======
 
 * Coursera
-   *  Cryptography I (Stanford)
+   * Cryptography I (Stanford)
    * Shortest Paths Revisited, NP-Complete Problems and What To Do About Them (Stanford)
-   * Algorithms (Stanford).
    * Graph Search, Shortest Paths, and Data Structures (Stanford).
    * Divide and Conquer, Sorting and Searching, and Randomized Algorithms (Stanford).
    * Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming (Stanford).
