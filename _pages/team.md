@@ -11,5 +11,5 @@ redirect_from:
 
 Group Member
 ======
-Shiyuan Xu
-Yibo Cao
+*Shiyuan Xu
+*Yibo Cao
