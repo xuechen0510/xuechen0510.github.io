@@ -34,7 +34,7 @@ Submitted to *Computer Networks*, 2022 **(JCR Q1, CORE A, CCF B)**
 <br><br>
 
 [**AQ–ABS: Anti-Quantum Attribute-based Signature for EMRs Sharing with Blockchain**](https://ieeexplore.ieee.org/document/9771830)  
-Published in *IEEE Wireless Communications and Networking Conference (WCNC)*, 2022 **(CCF C)**
+Published in *IEEE Wireless Communications and Networking Conference (WCNC)*, 2022 **(CORE B, CCF C)**
 <br>
 **Recommend citation**: X. Chen, S. Xu, T. Qin, et al., "AQ–ABS: Anti-Quantum Attribute-based Signature for EMRs Sharing with Blockchain," in *IEEE Wireless Communications and Networking Conference (WCNC)*, pp. 1176-1181, 2022.
 <br><br>
@@ -55,7 +55,7 @@ Published in *International Conference on Wireless Algorithms, Systems, and Appl
 
 [**APKI: An Anonymous Authentication Scheme Based on PKI for VANET**](https://ieeexplore.ieee.org/abstract/document/9845923)
 <br>
-Published in *International Conference on Computer and Communication Systems (ICCCS)*, 2022
+Published in *International Conference on Computer and Communication Systems (ICCCS)*, 2022 **(Best Student Paper Award)**
 <br>
 **Recommend citation**: S. Jiang, X. Chen, Y. Cao, T. Xu, J. He and Y. Cui, "APKI: An Anonymous Authentication Scheme Based on PKI for VANET," in *International Conference on Computer and Communication Systems (ICCCS)*, pp. 530-536, 2022.
 <br><br>
