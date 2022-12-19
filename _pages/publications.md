@@ -70,8 +70,8 @@ Published in *International Conference on Computer and Communication Systems (IC
 Selected list of Computer Software Copyrights
 ======
 
-* A Blockchain-based Smart Home Equipment Identity Control System (Patent Number: 2021SR0433466). (First Author)
-* A Blockchain-based Medical Materials Transaction Management System (Patent Number: 2021SR0433467). (First Author)
+* A Blockchain-based Smart Home Equipment Identity Control System (Patent Number: 2021SR0433466).
+* A Blockchain-based Medical Materials Transaction Management System (Patent Number: 2021SR0433467). 
 * Anti-epidemic material information registration management system (Patent Number: 2021SR0390598).
 * Security defense detection system for wireless communication networks (Patent Number: 2021SR0980343).
   
