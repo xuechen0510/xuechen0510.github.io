@@ -1,10 +1,12 @@
+---
 layout: archive
 title: "My Team"
-permalink: /publications/
+permalink: /teaching/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
-Research Member
-======
+{% include base_path %}
 
-Shiyuan Xu
+group member
