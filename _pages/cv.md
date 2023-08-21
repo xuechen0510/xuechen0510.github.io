@@ -19,6 +19,11 @@ EDUCATION
    * GPA: 86/100 & 3.64/4.00
    * Outstanding Student
    * 3 years Scholarship Recipient
+   
+* Research Summer Internship, **The University of Hong Kong**, Hong Kong, 2023.
+   * Supervisor: *Prof. Siu-Ming YIU*
+   * Research Group: Cyber Security, Fintech and Blockchain.
+   * Project Title: Compact Ring Signatures: General Construction and Applications.
 
 * Summer Institute
    * Fintech: AI, Blockchain, Computational Finance (FTAI2020), **The University of Hong Kong**, Hong Kong, 2020
