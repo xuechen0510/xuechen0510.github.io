@@ -12,7 +12,7 @@ Selected list of Publications
 <br>
 Published in *Tsinghua Science and Technology*, 2021 **(JCR Q1, Excellent Paper Award)**
 <br>
-**Recommend citation**: S. Xu, X. Chen and Y. He, "EVchain: An Anonymous Blockchain-Based System for Charging-Connected Electric Vehicles," *Tsinghua Science and Technology*, vol. 26, no. 6, pp. 845-856, Dec. 2021.
+**Recommend citation**: S. Xu, X. Chen, and Y. He, "EVchain: An Anonymous Blockchain-Based System for Charging-Connected Electric Vehicles," *Tsinghua Science and Technology*, vol. 26, no. 6, pp. 845-856, Dec. 2021.
 <br><br>
 
 [**AQRS: Anti-quantum ring signature scheme for secure epidemic control with blockchain**]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9449329](https://www.sciencedirect.com/science/article/pii/S1389128623000403))
@@ -20,6 +20,13 @@ Published in *Tsinghua Science and Technology*, 2021 **(JCR Q1, Excellent Paper 
 Published in *Computer Networks*, 2023 **(JCR Q1, CORE A, CCF B)**
 <br>
 **Recommend citation**: X. Chen, S. Xu, Y. Cao, et al., "AQRS: Anti-quantum ring signature scheme for secure epidemic control with blockchain," *Computer Networks*, vol. 224, 2023.
+<br><br>
+
+[**Post-Quantum Public-key Authenticated Searchable Encryption with Forward Security: General Construction, and Applications**]
+<br>
+Accepted by *Inscrypt*, 2023 **(CCF C)**
+<br>
+**Recommend citation**: S. Xu, Y. Cao, X. Chen, et al., "Post-Quantum Public-key Authenticated Searchable Encryption with Forward Security: General Construction, and Applications," *Inscrypt*, 2023.
 <br><br>
 
 [**LFS-AS: Lightweight Forward Secure Aggregate Signature for e-Health Scenarios**](https://ieeexplore.ieee.org/document/9838582)
