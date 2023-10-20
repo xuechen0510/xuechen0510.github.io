@@ -22,7 +22,7 @@ Published in *Computer Networks*, 2023 **(JCR Q1, CORE A, CCF B)**
 **Recommend citation**: X. Chen, S. Xu, Y. Cao, et al., "AQRS: Anti-quantum ring signature scheme for secure epidemic control with blockchain," *Computer Networks*, vol. 224, 2023.
 <br><br>
 
-[**Post-Quantum Public-key Authenticated Searchable Encryption with Forward Security: General Construction, and Applications**]
+**Post-Quantum Public-key Authenticated Searchable Encryption with Forward Security: General Construction, and Applications**
 <br>
 Accepted by *Inscrypt*, 2023 **(CCF C)**
 <br>
