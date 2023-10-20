@@ -17,4 +17,4 @@ Group Member
 
 * Yibo Cao
    * Supervisor: *Prof. Xiu-Bo Chen*
-   * Current Master student at the Beijing University of Posts and Telecommunications.
+   * Current Ph.D. student at the Beijing University of Posts and Telecommunications.
