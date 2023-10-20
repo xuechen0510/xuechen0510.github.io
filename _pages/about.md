@@ -22,7 +22,7 @@ News
 1. "AQRS: Anti-Quantum Ring Signature Scheme for Secure Epidemic Control with Blockchain" has been published by *Computer Networks* **(JCR Q1, CORE A, CCF B)**.
 2. "A forward-secure and efficient authentication protocol through lattice-based group signature in VANETs scenarios" has been published by *Computer Networks* **(JCR Q1, CORE A, CCF B)**.
 3. "EVchain: An Anonymous Blockchain-based System for Charging Connected Electric Vehicles" has been published by *Tsinghua Science and Technology* **(JCR Q1, Best Paper Award)**.
-4. "Post-Quantum Public-key Authenticated Searchable Encryption with Forward Security: General Construction, and Applications" has been accepted by *Inscrypt* **(CCF C)**.
+4. "Post-Quantum Public-key Authenticated Searchable Encryption with Forward Security: General Construction, and Applications" has been accepted by *The International Conference on Information Security and Cryptology (Inscrypt'2023)* **(CCF C)**.
 5. "LFS-AS: Lightweight Forward Secure Aggregate Signature for e-Health Scenarios" has been published by *IEEE International Conference on Communications (ICC’2022)* **(CORE B, CCF C)**.
 6. "AQ–ABS: Anti-Quantum Attribute-based Signature for EMRs Sharing with Blockchain" has been published by *IEEE Wireless Communications and Networking Conference (WCNC'2022)* **(CORE B, CCF C)**.
 
