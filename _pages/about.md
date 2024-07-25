@@ -11,7 +11,7 @@ redirect_from:
 
 Background
 ======
-Miss. Chen is an M.Phil. student, supervised by [Dr. Shang GAO](https://goldsainteagle.github.io/shanggao.github.io/), in the Department of Computing at The Hong Kong Polytechnic University. Before she came to Hong Kong, she received a B.Eng. degree majoring in information security at North China University of Technology. She was the Research Assistant with [Prof. Yunhua HE](http://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=YTx75JjaQGkuE4yNcPF9Ig==) and [Prof. Chao ZHENG](http://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=cdHELk601RdNXiezPlHCVw==) at the North China University of Technology. She interned as a summer research assistant with [Prof. Siu-Ming YIU](https://www.cs.hku.hk/people/academic-staff/smyiu) at The University of Hong Kong in 2023.
+Miss. Chen is an M.Phil. student, supervised by [Dr. Shang GAO](https://goldsainteagle.github.io/shanggao.github.io/), in the Department of Computing at The Hong Kong Polytechnic University. Before she came to Hong Kong, she received a B.Eng. degree majoring in information security at North China University of Technology. She was the Research Assistant with [Prof. Yunhua HE](http://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=YTx75JjaQGkuE4yNcPF9Ig==) and [Prof. Chao ZHENG](http://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=cdHELk601RdNXiezPlHCVw==) at the North China University of Technology. 
 
 Research Interests
 ======
