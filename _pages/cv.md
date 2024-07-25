@@ -13,20 +13,13 @@ EDUCATION
 ======
 * M.Phil. in Computer Science, **The Hong Kong Polytechnic University**, Hong Kong, 2024 (expected)
    * Supervisor: *Dr. GAO Shang*
-   * Main Research Area: Post-Quantum Cryptography, Signatures and Blockchain.
+   * Main Research Area: Applied Cryptography, Privacy-Perserving System.
 
 * B. Eng. in Information Security, **North China University of Technology**, Beijing, China, 2022
    * GPA: 86/100 & 3.64/4.00
    * Outstanding Student
    * 3 years Scholarship Recipient
-   
-* Research Summer Internship, **The University of Hong Kong**, Hong Kong, 2023.
-   * Supervisor: *Prof. Siu-Ming YIU*
-   * Research Group: Cyber Security, Fintech and Blockchain.
-   * Project Title: Compact Ring Signatures: General Construction and Applications.
 
-* Summer Institute
-   * Fintech: AI, Blockchain, Computational Finance (FTAI2020), **The University of Hong Kong**, Hong Kong, 2020
 
 RESEARCH ASSISTANT
 ======
