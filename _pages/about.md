@@ -11,11 +11,11 @@ redirect_from:
 
 Background
 ======
-Miss. Chen is an M.Phil. student, supervised by [Dr. Shang GAO](https://goldsainteagle.github.io/shanggao.github.io/), in the Department of Computing at The Hong Kong Polytechnic University. Before she came to Hong Kong, she received a B.Eng. degree majoring in information security at North China University of Technology. She was the Research Assistant with [Prof. Yunhua HE](http://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=YTx75JjaQGkuE4yNcPF9Ig==) and [Prof. Chao ZHENG](http://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=cdHELk601RdNXiezPlHCVw==) at the North China University of Technology. 
+Miss. Chen now is a Ph.D. student, supervised by [Prof. Siu-Ming Yiu](https://www.cs.hku.hk/people/academic-staff/smyiu), in the Department of Computer Science at The University of Hong Kong. In 2024, she received an M.Phil. degree in the Department of Computing at The Hong Kong Polytechnic University, supervised by [Dr. Shang GAO](https://goldsainteagle.github.io/shanggao.github.io/). In 2022, she received a B.Eng. degree majoring in information security at North China University of Technology. She was the Research Assistant with [Prof. Yunhua HE](http://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=YTx75JjaQGkuE4yNcPF9Ig==) and [Prof. Chao ZHENG](http://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=cdHELk601RdNXiezPlHCVw==) at the North China University of Technology. 
 
 Research Interests
 ======
-Broadly speaking, I am interested in applied cryptography and information security. Specifically, my current research mainly focuses on ring signatures, post-quantum cryptography, zero-knowledge proofs, security in the Internet of Things, and also blockchain.
+Broadly speaking, I am interested in applied cryptography and privacy-preserving systems. Specifically, my current research mainly focuses on ring signatures, lattice-based cryptography, zero-knowledge proofs, security in the Internet of Things and e-health, and also blockchain.
 
 News
 ======
