@@ -11,8 +11,12 @@ redirect_from:
 
 EDUCATION
 ======
-* M.Phil. in Computer Science, **The Hong Kong Polytechnic University**, Hong Kong, 2024 (expected)
-   * Supervisor: *Dr. GAO Shang*
+* M.Phil. in Department of Computer Science, **The University of Hong Kong**, Hong Kong, 2027 (expected)
+   * Supervisor: *Prof. YIU Siu-Ming*
+   * Main Research Area: Applied Cryptography, Privacy-Perserving System.
+     
+* M.Phil. in Department of Computing, **The Hong Kong Polytechnic University**, Hong Kong, 2024
+   * Supervisor: *Dr. GAO Shang* and *Prof. XIAO Bin*
    * Main Research Area: Applied Cryptography, Privacy-Perserving System.
 
 * B. Eng. in Information Security, **North China University of Technology**, Beijing, China, 2022
