@@ -11,7 +11,7 @@ redirect_from:
 
 EDUCATION
 ======
-* M.Phil. in Department of Computer Science, **The University of Hong Kong**, Hong Kong, 2027 (expected)
+* Ph.D. in Department of Computer Science, **The University of Hong Kong**, Hong Kong, 2027 (expected)
    * Supervisor: *Prof. YIU Siu-Ming*
    * Main Research Area: Applied Cryptography, Privacy-Perserving System.
      
